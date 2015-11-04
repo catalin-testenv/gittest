@@ -29,3 +29,11 @@ end
 def master_5
 end
 
+def feature_3_1
+  'feature_2_2'
+end
+
+def feature_3_2
+  'feature_2_2'
+end
+
