@@ -23,3 +23,6 @@ def feature_2_2
   'feature_2_2'
 end
 
+def master_4
+end
+
