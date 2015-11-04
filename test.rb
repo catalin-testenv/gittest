@@ -20,6 +20,12 @@ end
 def master_7
 end
 
+def feature_4_1
+end
 
+def feature_4_2
+end
 
+def feature_4_3
+end
 
