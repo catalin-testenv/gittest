@@ -20,18 +20,8 @@ end
 def master_7
 end
 
-def feature_4_1_feat_c
+def master_8
 end
 
-def feature_4_2_master
+def master_8
 end
-
-def master_10_master
-end
-
-def feature_4_2_feat_c
-end
-
-def master_10_feat_c
-end
-
