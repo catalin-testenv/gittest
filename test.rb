@@ -23,7 +23,7 @@ end
 def feature_4_1
 end
 
-def feature_4_2
+def feature_4_2_master
 end
 
 def master_10_master
